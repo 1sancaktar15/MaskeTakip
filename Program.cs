@@ -1,27 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-// string mesaj = "hello";
-// double tutar = 100000;
-// int sayi = 100;
-// bool girisYapilmisMi = false;
-
-
-// //birsuru degisken tanimlamak yerine mantiksal gruplara ayiriyorum,bunlari bir kutuya koyalim, ordan cagiralim --> bunlara nesne, class denir
-// //yazilimda surdurebilirlik seviyesi !!
-// string ad = "Elif";
-// string soyad = "Ozun";
-// int dogumYili = 2003 ;
-// long tcNo = 12345678910;
-
-// Console.WriteLine(mesaj);
-// Console.WriteLine(tutar * 1.18);
-
-// Console.ReadLine();
-
-
 using System;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace Workaround // Note: actual namespace depends on the project name.
 {
     internal class Program
     {

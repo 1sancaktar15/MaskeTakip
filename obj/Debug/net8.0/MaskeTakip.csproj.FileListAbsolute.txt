@@ -12,3 +12,4 @@
 /home/elif/Masaüstü/MaskeTakip/obj/Debug/net8.0/MaskeTakip.pdb
 /home/elif/Masaüstü/MaskeTakip/obj/Debug/net8.0/MaskeTakip.genruntimeconfig.cache
 /home/elif/Masaüstü/MaskeTakip/obj/Debug/net8.0/ref/MaskeTakip.dll
+/home/elif/Masaüstü/MaskeTakip/obj/Debug/net8.0/MaskeTakip.sourcelink.json
