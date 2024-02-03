@@ -1,0 +1,14 @@
+/home/elif/Masaüstü/MaskeTakip/bin/Debug/net8.0/MaskeTakip
+/home/elif/Masaüstü/MaskeTakip/bin/Debug/net8.0/MaskeTakip.deps.json
+/home/elif/Masaüstü/MaskeTakip/bin/Debug/net8.0/MaskeTakip.runtimeconfig.json
+/home/elif/Masaüstü/MaskeTakip/bin/Debug/net8.0/MaskeTakip.dll
+/home/elif/Masaüstü/MaskeTakip/bin/Debug/net8.0/MaskeTakip.pdb
+/home/elif/Masaüstü/MaskeTakip/obj/Debug/net8.0/MaskeTakip.GeneratedMSBuildEditorConfig.editorconfig
+/home/elif/Masaüstü/MaskeTakip/obj/Debug/net8.0/MaskeTakip.AssemblyInfoInputs.cache
+/home/elif/Masaüstü/MaskeTakip/obj/Debug/net8.0/MaskeTakip.AssemblyInfo.cs
+/home/elif/Masaüstü/MaskeTakip/obj/Debug/net8.0/MaskeTakip.csproj.CoreCompileInputs.cache
+/home/elif/Masaüstü/MaskeTakip/obj/Debug/net8.0/MaskeTakip.dll
+/home/elif/Masaüstü/MaskeTakip/obj/Debug/net8.0/refint/MaskeTakip.dll
+/home/elif/Masaüstü/MaskeTakip/obj/Debug/net8.0/MaskeTakip.pdb
+/home/elif/Masaüstü/MaskeTakip/obj/Debug/net8.0/MaskeTakip.genruntimeconfig.cache
+/home/elif/Masaüstü/MaskeTakip/obj/Debug/net8.0/ref/MaskeTakip.dll
