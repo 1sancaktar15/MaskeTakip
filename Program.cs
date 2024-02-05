@@ -13,7 +13,27 @@ namespace Workaround // Note: actual namespace depends on the project name.
             //bir tane vatandas olusturdum demek -- instance
             Vatandas vatandas1 = new Vatandas();
 
-            
+            SelamVer(isim: "elif");
+
+            //Arrays
+            string[] ogrenciler = new string[3];
+            ogrenciler[0] = "elif";
+            SelamVer(ogrenciler[0]);
+
+            for(int i = 0 ; i < ogrenciler.Length ; i++)
+            {
+                SelamVer(ogrenciler[i]);
+            }
+
+            List<string> yeniSehirler= new List<string>{"Ankara", "İstanbul" , "İzmir"}; 
+            yeniSehirler.Add("Kayseri");
+
+            string[] sehirler=new[] {"Ankara", "İstanbul" , "İzmir"}; 
+
+            foreach (string sehir in yeniSehirler)
+            {
+                Console.WriteLine(sehir);
+            }
             Console.ReadLine();
 
         }
@@ -37,8 +57,15 @@ namespace Workaround // Note: actual namespace depends on the project name.
             Console.WriteLine(tutar * 1.18);
 
         }
+
+        static void SelamVer(string isim="isimsiz")
+        {
+            Console.WriteLine("Selam " + isim);
+        }
+
     }
 
+ 
     public class Vatandas
     {
         //get ve set -- prop 

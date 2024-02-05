@@ -11,4 +11,9 @@ public class PersonManager
     {
 
     }
+
+    public List<Person> GetList()
+    {
+        return null;
+    }
 }
