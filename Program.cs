@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System;
+using Business;
+using Entities;
 
 namespace Workaround // Note: actual namespace depends on the project name.
 {
@@ -34,6 +36,13 @@ namespace Workaround // Note: actual namespace depends on the project name.
             {
                 Console.WriteLine(sehir);
             }
+
+            Person person1 = new Person();
+            person1.FirstName = "Elif";
+
+            PttManager pttManager = new PttManager(new PersonManager()); //usingleri vermeyi unutma
+            pttManager.GiveMask(person1);
+
             Console.ReadLine();
 
         }
