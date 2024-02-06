@@ -86,4 +86,7 @@ namespace Workaround // Note: actual namespace depends on the project name.
         public long TcNo { get; set; }
 
     };
+
+
+    //SOAP mimarisinde yazilmis servisi projeme dahil etmek istiyorum, nasil edecegim? --> servis: tckimlik.nvi.gov.tr
 }

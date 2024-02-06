@@ -1,6 +1,8 @@
 ﻿namespace Entities;
 
 //bir sınıfın default erisim bildirgeci internal'dir.
+//bu sinif ozellikleri tutuyor (single responsibility icin)
+
 public class Person
 {
     public string FirstName { get; set; }

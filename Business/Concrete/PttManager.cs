@@ -4,7 +4,7 @@ using Business;
 using System;
 
 // bir sinif baska bir sinifi kullanırken (entity sinifinda gecerli degil) new'liyorsa ileride bu yazilimda degisiklik talebi geldiginde uygulama direnc gosterir.
-public class PttManager
+public class PttManager:ISupplierService
 {
     //Bagimliligi kaldirmak icin dependency injection 
     //bagimli olunan sinif yerine o sinifin interface'ini kullanacagim.
