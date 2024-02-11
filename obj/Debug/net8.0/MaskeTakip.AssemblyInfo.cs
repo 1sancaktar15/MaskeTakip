@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaskeTakip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4db81b50d2cac4b80a53e7a1f208a8a1e781847a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bdd18c6aec2abf50fb2053cf3cd071f1258408b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaskeTakip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaskeTakip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

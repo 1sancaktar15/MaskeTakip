@@ -48,7 +48,6 @@
 /home/elif/Masaüstü/MaskeTakip/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.dll
 /home/elif/Masaüstü/MaskeTakip/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.ServiceProcess.ServiceController.dll
 /home/elif/Masaüstü/MaskeTakip/obj/Debug/net8.0/MaskeTakip.csproj.CopyComplete
-/home/elif/Masaüstü/MaskeTakip/bin/Debug/net8.0/Microsoft.Web.Services3.dll
 /home/elif/Masaüstü/MaskeTakip/bin/Debug/net8.0/Microsoft.Extensions.ObjectPool.dll
 /home/elif/Masaüstü/MaskeTakip/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
 /home/elif/Masaüstü/MaskeTakip/bin/Debug/net8.0/System.Security.Cryptography.Xml.dll
