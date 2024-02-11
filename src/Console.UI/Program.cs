@@ -69,7 +69,7 @@ namespace Workaround // Note: actual namespace depends on the project name.
 
         static void SelamVer(string isim="isimsiz")
         {
-            Console.WriteLine("Selam " + isim);
+            Console.WriteLine("Selamlar " + isim);
         }
 
     }
